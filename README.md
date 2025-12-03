@@ -6,10 +6,7 @@ This repository showcases a complete **end-to-end MLOps workflow** for a regress
 
 ## 📊 Project Architecture
 
-Insert your project flow diagram here:
-
-> **📌 Place your image in this section:**  
-> `![Project Flow](flow.png)`  
+<img width="2752" height="722" alt="flow" src="https://github.com/user-attachments/assets/3e8e4244-36b2-48cc-af30-34ca5c758ff4" />
 
 ---
 
