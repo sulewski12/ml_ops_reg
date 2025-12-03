@@ -1,4 +1,4 @@
-# 🚀 End-to-End MLOps Regression Workflow
+# End-to-End MLOps Regression Workflow
 
 This repository showcases a complete **end-to-end MLOps workflow** for a regression problem - starting from raw data ingestion all the way to a fully deployed and containerized solution with a user-friendly UI.  
 
@@ -9,8 +9,7 @@ This repository showcases a complete **end-to-end MLOps workflow** for a regress
 Insert your project flow diagram here:
 
 > **📌 Place your image in this section:**  
-> `![Project Flow](path/to/your_image.png)`  
-*(Replace `path/to/your_image.png` with the correct file path in the repo.)*
+> `![Project Flow](flow.png)`  
 
 ---
 
